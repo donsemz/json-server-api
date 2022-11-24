@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": "b9492b73-b492-46da-bca1-fb55c2c5c4af",
+      "name": "Dalton",
+      "email": "james@hotmail.com",
+      "phone": "10249746788",
+      "active": true
+    },
+    {
+      "id": "aec3d9c0-bd8d-4e4c-81de-cad4cae86a38",
+      "name": "Timothy",
+      "email": "timothy@hotmail.com",
+      "active": true,
+      "phone": "1875746788"
+    },
+    {
+      "name": "Peter",
+      "email": "Peter@gmail.com",
+      "phone": "09876543236",
+      "active": true,
+      "id": "dCE-Qpp"
+    }
+  ]
+}
